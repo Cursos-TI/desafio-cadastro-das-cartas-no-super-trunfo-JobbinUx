@@ -125,4 +125,6 @@ int main() {
     printf("PIB per Capita: %.2f reais\n", pibPerCapita2);
 
     return 0;
+
+    //Inseri 2.f para o float ficar o mais preciso possivel.
 }
