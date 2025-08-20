@@ -137,5 +137,7 @@ int main() {
     printf("Super Poder: Carta 1 venceu (%d)\n", superPoder1 > superPoder2);
 
     return 0;
+    
+    //alguns comandos deram erros entao nao infeitei muito.
 }
 
